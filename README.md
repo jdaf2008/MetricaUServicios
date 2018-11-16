@@ -42,11 +42,11 @@ FUe creada una tarea calendarizada en _crontab_ para que cada minuto verifique l
 
 #### Para las solicitudes en puerto 20000
 
- ![alt text](https://github.com/jdaf2008/MetricaUServicios/graph.png "Métrica de puerto 20000") 
+ ![Métrica de puerto 20000](./graph.png) 
 
 
 #### Para las 4 métricas configuradas
 
 
- ![alt text](https://github.com/jdaf2008/MetricaUServicios/graph2.png "Métrica de puerto 20000") 
+ ![Métricas](./graph2.png) 
 
